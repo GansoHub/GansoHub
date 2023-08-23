@@ -15,3 +15,12 @@ Hi! I am Gabriel Santos e Silva:
 ### Contacts:
 <a href="https://www.linkedin.com/in/gabriel-santos-e-silva-74805026a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:gabrielsantosslv@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+![image](https://github.com/GansoHub/GansoHub/assets/77673388/e4af7818-51de-47a6-b6a4-e037447a3d44) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/776948c0-be89-4bae-89e5-47ebb4f1a527) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/f8b5fee8-a7fc-41f3-ac50-3b8106fc90c0) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/82f64cd9-3665-4c3d-b129-013701a612ba) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/7e2f93cf-c000-4e60-9355-1ce98ae18a44) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/bf8dc84e-8bf0-41e9-81b8-804756a84abf) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/d8078c67-2e87-4a01-887a-2fc75a0dcfe8) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/960c085b-35b0-43bf-bf97-2e2045cad26c) ![image](https://github.com/GansoHub/GansoHub/assets/77673388/b2e22d6b-fa39-4b49-975f-1480dbe2ad8e)
+
+
+
+
+
+
+
