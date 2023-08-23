@@ -9,8 +9,7 @@ Hi! I am Gabriel Santos e Silva:
 - 🌱 I’m currently learning Graphic Design in Saga School!
 - 👯 I’m looking to collaborate on projects wich i can work specially in the graphic assets!
 - 🤔 I’m looking for help with finding an intership pls help 😎👌
-- 💬 Ask me about C, Java, Python, prototipation and adobe graphic tools!
-- 📫 How to reach me: Well, you can either contact me here on GitHub, or you can send me an e-mail: gabrielsantosslv@outlook.com, or you can find me on Linkedin:<a href="https://www.linkedin.com/in/gabriel-santos-e-silva-74805026a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+- 💬 Ask me about C, Java, Python, prototipation and adobe graphic tools!  
 - ⚡ Fun fact: I read an not healthy amount of comic books, i am an huge fan of Kamala Khan and Wally West, and, yeah, guess only one of them are being properly threated...
 
 ### Contacts:
