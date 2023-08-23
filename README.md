@@ -1,5 +1,7 @@
 ### It's Dangerous to go alone! Take This Repository. 🗡️
 
+![Sword](https://github.com/GansoHub/GansoHub/assets/77673388/e9ad8ee6-7e60-4246-98e8-9f6c29672919)
+
 
 Hi! I am Gabriel Santos e Silva:
 
